@@ -1,6 +1,6 @@
-# lista_tarefas
+# Lista de Tarefas
 
-A new Flutter application.
+App flutter lista de tarefas com sqlite, listview, expanded, dismissible, snackbar.
 
 ## Getting Started
 
